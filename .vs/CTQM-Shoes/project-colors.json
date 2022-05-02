@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "734c29ac-af66-4521-8b7c-685d98afc028": {
+      "ProjectGuid": "734c29ac-af66-4521-8b7c-685d98afc028",
+      "DisplayName": "CTQM-Shoes",
+      "ColorIndex": 0
+    },
+    "73c93055-adf6-445d-9367-452c1293b408": {
+      "ProjectGuid": "73c93055-adf6-445d-9367-452c1293b408",
+      "DisplayName": "SHOESBUS",
+      "ColorIndex": 1
+    },
+    "69eb5f1c-9b71-481f-b7c7-2f62a19976a9": {
+      "ProjectGuid": "69eb5f1c-9b71-481f-b7c7-2f62a19976a9",
+      "DisplayName": "SHOESDAL",
+      "ColorIndex": 2
+    },
+    "3810bddf-5023-4221-a423-8facf9d73cbe": {
+      "ProjectGuid": "3810bddf-5023-4221-a423-8facf9d73cbe",
+      "DisplayName": "SHOESDTO",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,42 @@
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESDTO\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESDTO\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESDTO\obj\Debug\SHOESDTO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESDTO\obj\Debug\SHOESDTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESDTO\obj\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESDTO\obj\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESDTO\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESDTO\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESDTO\obj\Debug\SHOESDTO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESDTO\obj\Debug\SHOESDTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESDTO\obj\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESDTO\obj\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESDTO\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESDTO\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESDTO\obj\Debug\SHOESDTO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESDTO\obj\Debug\SHOESDTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESDTO\obj\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESDTO\obj\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESDTO\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESDTO\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESDTO\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESDTO\obj\Debug\SHOESDTO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESDTO\obj\Debug\SHOESDTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESDTO\obj\Debug\SHOESDTO.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESDTO\obj\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESDTO\obj\Debug\SHOESDTO.pdb
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESDTO\bin\Debug\SHOESDTO.dll
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESDTO\bin\Debug\SHOESDTO.pdb
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESDTO\bin\Debug\Guna.UI2.dll
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESDTO\obj\Debug\SHOESDTO.csproj.AssemblyReference.cache
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESDTO\obj\Debug\SHOESDTO.csproj.CoreCompileInputs.cache
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESDTO\obj\Debug\SHOESDTO.csproj.CopyComplete
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESDTO\obj\Debug\SHOESDTO.dll
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESDTO\obj\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESDTO\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESDTO\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESDTO\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESDTO\obj\Debug\SHOESDTO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESDTO\obj\Debug\SHOESDTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESDTO\obj\Debug\SHOESDTO.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESDTO\obj\Debug\SHOESDTO.dll
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESDTO\obj\Debug\SHOESDTO.pdb

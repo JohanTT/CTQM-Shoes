@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{734C29AC-AF66-4521-8B7C-685D98AFC028}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CTQM_Shoes</RootNamespace>
+    <AssemblyName>CTQM-Shoes</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=5.15.4.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.15.4\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.2.7, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.2.7\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChildForm\Admin\FormAdmin2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildForm\Admin\FormAdmin2.Designer.cs">
+      <DependentUpon>FormAdmin2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\Admin\HoaDonChoControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChildForm\Admin\HoaDonChoControl.Designer.cs">
+      <DependentUpon>HoaDonChoControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\Admin\HoaDonControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChildForm\Admin\HoaDonControl.Designer.cs">
+      <DependentUpon>HoaDonControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\Admin\KhachHangControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChildForm\Admin\KhachHangControl.Designer.cs">
+      <DependentUpon>KhachHangControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\Admin\KyGuiChoControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChildForm\Admin\KyGuiChoControl.Designer.cs">
+      <DependentUpon>KyGuiChoControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\Admin\KyGuiControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChildForm\Admin\KyGuiControl.Designer.cs">
+      <DependentUpon>KyGuiControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\Admin\MatHangControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChildForm\Admin\MatHangControl.Designer.cs">
+      <DependentUpon>MatHangControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\Admin\NhanVienControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChildForm\Admin\NhanVienControl.Designer.cs">
+      <DependentUpon>NhanVienControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\GioHang\XacNhanMa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildForm\GioHang\XacNhanMa.Designer.cs">
+      <DependentUpon>XacNhanMa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\MatHang\ChiTietMatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildForm\MatHang\ChiTietMatHang.Designer.cs">
+      <DependentUpon>ChiTietMatHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\TaiKhoan\FormChinhTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildForm\TaiKhoan\FormChinhTaiKhoan.Designer.cs">
+      <DependentUpon>FormChinhTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\TaiKhoan\FormDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildForm\TaiKhoan\FormDoiMatKhau.Designer.cs">
+      <DependentUpon>FormDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\GioHang\FormGioHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildForm\GioHang\FormGioHang.Designer.cs">
+      <DependentUpon>FormGioHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\KyGui\FormKyGui.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildForm\KyGui\FormKyGui.Designer.cs">
+      <DependentUpon>FormKyGui.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\MatHang\FormSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildForm\MatHang\FormSanPham.Designer.cs">
+      <DependentUpon>FormSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\TaiKhoan\FormTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildForm\TaiKhoan\FormTaiKhoan.Designer.cs">
+      <DependentUpon>FormTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\GioHang\FormHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildForm\GioHang\FormHoaDon.Designer.cs">
+      <DependentUpon>FormHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\GioHang\GioHangControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChildForm\GioHang\GioHangControl.Designer.cs">
+      <DependentUpon>GioHangControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\GioHang\HoaDonControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChildForm\GioHang\HoaDonControl.Designer.cs">
+      <DependentUpon>HoaDonControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\KyGui\KyGuiControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChildForm\KyGui\KyGuiControl.Designer.cs">
+      <DependentUpon>KyGuiControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\MatHang\MatHangControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChildForm\MatHang\MatHangControl.Designer.cs">
+      <DependentUpon>MatHangControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\TaiKhoan\FormDoiMaBaoMat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildForm\TaiKhoan\FormDoiMaBaoMat.Designer.cs">
+      <DependentUpon>FormDoiMaBaoMat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMainMenu.Designer.cs">
+      <DependentUpon>FormMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\KyGui\FormThemKyGui.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildForm\KyGui\FormThemKyGui.Designer.cs">
+      <DependentUpon>FormThemKyGui.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\TaiKhoan\FormNapTienVDT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildForm\TaiKhoan\FormNapTienVDT.Designer.cs">
+      <DependentUpon>FormNapTienVDT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm\TaiKhoan\SanPhamDaMuaControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChildForm\TaiKhoan\SanPhamDaMuaControl.Designer.cs">
+      <DependentUpon>SanPhamDaMuaControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shoes4.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Shoes4.dbml</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChildForm\Admin\FormAdmin2.resx">
+      <DependentUpon>FormAdmin2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\Admin\HoaDonChoControl.resx">
+      <DependentUpon>HoaDonChoControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\Admin\HoaDonControl.resx">
+      <DependentUpon>HoaDonControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\Admin\KhachHangControl.resx">
+      <DependentUpon>KhachHangControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\Admin\KyGuiChoControl.resx">
+      <DependentUpon>KyGuiChoControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\Admin\KyGuiControl.resx">
+      <DependentUpon>KyGuiControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\Admin\MatHangControl.resx">
+      <DependentUpon>MatHangControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\Admin\NhanVienControl.resx">
+      <DependentUpon>NhanVienControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\GioHang\XacNhanMa.resx">
+      <DependentUpon>XacNhanMa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\MatHang\ChiTietMatHang.resx">
+      <DependentUpon>ChiTietMatHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\TaiKhoan\FormChinhTaiKhoan.resx">
+      <DependentUpon>FormChinhTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\TaiKhoan\FormDoiMatKhau.resx">
+      <DependentUpon>FormDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\GioHang\FormGioHang.resx">
+      <DependentUpon>FormGioHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\KyGui\FormKyGui.resx">
+      <DependentUpon>FormKyGui.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\MatHang\FormSanPham.resx">
+      <DependentUpon>FormSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\TaiKhoan\FormTaiKhoan.resx">
+      <DependentUpon>FormTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\GioHang\FormHoaDon.resx">
+      <DependentUpon>FormHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\GioHang\GioHangControl.resx">
+      <DependentUpon>GioHangControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\GioHang\HoaDonControl.resx">
+      <DependentUpon>HoaDonControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\KyGui\KyGuiControl.resx">
+      <DependentUpon>KyGuiControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\MatHang\MatHangControl.resx">
+      <DependentUpon>MatHangControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\TaiKhoan\FormDoiMaBaoMat.resx">
+      <DependentUpon>FormDoiMaBaoMat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMainMenu.resx">
+      <DependentUpon>FormMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\KyGui\FormThemKyGui.resx">
+      <DependentUpon>FormThemKyGui.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\TaiKhoan\FormNapTienVDT.resx">
+      <DependentUpon>FormNapTienVDT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm\TaiKhoan\SanPhamDaMuaControl.resx">
+      <DependentUpon>SanPhamDaMuaControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Shoes4.dbml.layout">
+      <DependentUpon>Shoes4.dbml</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Shoes4.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>Shoes4.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\00.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SHOESBUS\SHOESBUS.csproj">
+      <Project>{73c93055-adf6-445d-9367-452c1293b408}</Project>
+      <Name>SHOESBUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SHOESDAL\SHOESDAL.csproj">
+      <Project>{69eb5f1c-9b71-481f-b7c7-2f62a19976a9}</Project>
+      <Name>SHOESDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SHOESDTO\SHOESDTO.csproj">
+      <Project>{3810bddf-5023-4221-a423-8facf9d73cbe}</Project>
+      <Name>SHOESDTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8aba7475193387d786915bbf5eaec579.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\336c1c43c0493d5b32cf12d7e0fcd12a1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\336c1c43c0493d5b32cf12d7e0fcd12a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\air-jordan-1-1985_d617212779fe4046971d0aa496154a9f_2048x2048.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6065547.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1895829.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c1456c75c88943179f21f92fa98978bf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\201633140d759215278c5e36ddde984b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\air-jordan-1-unc-wallpaper-hd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27b5c99e411c8346a8c1a9d2b51f4b25.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shoes-boots-nike-air.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3625482.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

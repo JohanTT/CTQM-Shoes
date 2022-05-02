@@ -1,0 +1,310 @@
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\obj\Debug\CTQM_Shoes.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\bin\Debug\CTQM-Shoes.exe.config
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\bin\Debug\CTQM-Shoes.exe
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\bin\Debug\CTQM-Shoes.pdb
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\obj\Debug\CTQM-Shoes.exe
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\obj\Debug\CTQM-Shoes.pdb
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormAdmin.resources
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\obj\Debug\CTQM_Shoes.FormMainMenu.resources
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\bin\Debug\SHOESBUS.dll
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\bin\Debug\SHOESDAL.dll
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\bin\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\bin\Debug\SHOESBUS.dll.config
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\bin\Debug\SHOESDAL.pdb
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\bin\Debug\SHOESDAL.dll.config
+C:\Users\ADMIN\source\repos\CTQM-Shoes\CTQM-Shoes\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\bin\Debug\CTQM-Shoes.exe.config
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\bin\Debug\CTQM-Shoes.exe
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\bin\Debug\CTQM-Shoes.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\bin\Debug\SHOESBUS.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\bin\Debug\SHOESDAL.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\bin\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\bin\Debug\SHOESBUS.dll.config
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\bin\Debug\SHOESDAL.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\bin\Debug\SHOESDAL.dll.config
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormAdmin.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\obj\Debug\CTQM_Shoes.FormMainMenu.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\obj\Debug\CTQM_Shoes.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\obj\Debug\CTQM-Shoes.exe
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\CTQM-Shoes\obj\Debug\CTQM-Shoes.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.ChiTietMatHang.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormAdmin.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormSanPham.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.FormMainMenu.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.Login.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.Register.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM-Shoes.exe
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM-Shoes.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\bin\Debug\CTQM-Shoes.exe.config
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\bin\Debug\CTQM-Shoes.exe
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\bin\Debug\CTQM-Shoes.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\bin\Debug\SHOESBUS.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\bin\Debug\SHOESDAL.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\bin\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\bin\Debug\SHOESBUS.dll.config
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\bin\Debug\SHOESDAL.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\bin\Debug\SHOESDAL.dll.config
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormGioHang.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.GioHangControl.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormHoaDon.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.HoaDonControl.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.MatHangControl.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormKyGui.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.KyGuiControl.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.FormThemKyGui.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormTaiKhoan.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormChinhTaiKhoan.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormDoiMatKhau.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\bin\Debug\CTQM-Shoes.exe.config
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\bin\Debug\CTQM-Shoes.exe
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\bin\Debug\CTQM-Shoes.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\bin\Debug\SHOESBUS.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\bin\Debug\SHOESDAL.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\bin\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\bin\Debug\SHOESBUS.dll.config
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\bin\Debug\SHOESDAL.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\bin\Debug\SHOESDAL.dll.config
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.ChiTietMatHang.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormChinhTaiKhoan.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormDoiMatKhau.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormGioHang.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormKyGui.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormSanPham.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormTaiKhoan.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormHoaDon.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.GioHangControl.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.HoaDonControl.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.KyGuiControl.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.MatHangControl.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.FormMainMenu.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.FormThemKyGui.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.Login.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.Register.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM-Shoes.exe
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM-Shoes.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.HoaDonControl.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.KhachHangControl.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.KyGuiform.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.MatHangControl.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.NhanVienControl.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.FormAdmin2.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.HoaDonChoControl.resources
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.KyGuiChoControl.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\bin\Debug\CTQM-Shoes.exe.config
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\bin\Debug\CTQM-Shoes.exe
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\bin\Debug\CTQM-Shoes.pdb
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\bin\Debug\FontAwesome.Sharp.dll
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\bin\Debug\Guna.UI2.dll
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\bin\Debug\SHOESBUS.dll
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\bin\Debug\SHOESDAL.dll
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\bin\Debug\SHOESDTO.dll
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\bin\Debug\SHOESBUS.pdb
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\bin\Debug\SHOESBUS.dll.config
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\bin\Debug\SHOESDAL.pdb
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\bin\Debug\SHOESDAL.dll.config
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\bin\Debug\SHOESDTO.pdb
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.AssemblyReference.cache
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.FormAdmin2.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.HoaDonChoControl.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.HoaDonControl.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.KhachHangControl.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.KyGuiChoControl.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.KyGuiform.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.MatHangControl.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.NhanVienControl.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.ChiTietMatHang.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormChinhTaiKhoan.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormDoiMatKhau.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormGioHang.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormKyGui.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormSanPham.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormTaiKhoan.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormHoaDon.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.GioHangControl.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.HoaDonControl.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.KyGuiControl.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.MatHangControl.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.FormMainMenu.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.FormThemKyGui.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.Login.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.Properties.Resources.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM_Shoes.Register.resources
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.GenerateResource.cache
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.CoreCompileInputs.cache
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.CopyComplete
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM-Shoes.exe
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\CTQM-Shoes\obj\Debug\CTQM-Shoes.pdb
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\bin\Debug\CTQM-Shoes.exe.config
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\bin\Debug\CTQM-Shoes.exe
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\bin\Debug\CTQM-Shoes.pdb
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\bin\Debug\SHOESBUS.dll
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\bin\Debug\SHOESDAL.dll
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\bin\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\bin\Debug\SHOESBUS.dll.config
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\bin\Debug\SHOESDAL.pdb
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\bin\Debug\SHOESDAL.dll.config
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.FormAdmin2.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.HoaDonChoControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.HoaDonControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.KhachHangControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.KyGuiChoControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.KyGuiform.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.MatHangControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.NhanVienControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.ChiTietMatHang.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormChinhTaiKhoan.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormDoiMatKhau.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormGioHang.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormKyGui.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormSanPham.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormTaiKhoan.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormHoaDon.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.GioHangControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.HoaDonControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.KyGuiControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.MatHangControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.FormMainMenu.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.FormThemKyGui.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.Login.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.Register.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM-Shoes.exe
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\CTQM-Shoes\obj\Debug\CTQM-Shoes.pdb
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\bin\Debug\CTQM-Shoes.exe.config
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\bin\Debug\CTQM-Shoes.exe
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\bin\Debug\CTQM-Shoes.pdb
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\bin\Debug\SHOESBUS.dll
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\bin\Debug\SHOESDAL.dll
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\bin\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\bin\Debug\SHOESBUS.dll.config
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\bin\Debug\SHOESDAL.pdb
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\bin\Debug\SHOESDAL.dll.config
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.FormAdmin2.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.HoaDonChoControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.HoaDonControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.KhachHangControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.KyGuiChoControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.KyGuiform.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.MatHangControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.NhanVienControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.ChiTietMatHang.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormChinhTaiKhoan.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormDoiMatKhau.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormGioHang.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormKyGui.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormSanPham.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormTaiKhoan.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormHoaDon.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.GioHangControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.HoaDonControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.KyGuiControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.MatHangControl.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.FormMainMenu.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.FormThemKyGui.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.Login.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM_Shoes.Register.resources
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM-Shoes.exe
+C:\Users\ADMIN\source\repos\SHOES.1.2.289999\CTQM-Shoes\obj\Debug\CTQM-Shoes.pdb
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\bin\Debug\CTQM-Shoes.exe.config
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\bin\Debug\CTQM-Shoes.exe
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\bin\Debug\CTQM-Shoes.pdb
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\bin\Debug\SHOESBUS.dll
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\bin\Debug\SHOESDAL.dll
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\bin\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\bin\Debug\SHOESBUS.dll.config
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\bin\Debug\SHOESDAL.pdb
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\bin\Debug\SHOESDAL.dll.config
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.FormAdmin2.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.HoaDonChoControl.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.HoaDonControl.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.KhachHangControl.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.KyGuiChoControl.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.KyGuiform.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.MatHangControl.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.Admin.NhanVienControl.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.ChiTietMatHang.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormChinhTaiKhoan.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormDoiMatKhau.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormGioHang.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormKyGui.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormSanPham.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormTaiKhoan.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.FormHoaDon.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.GioHangControl.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.HoaDonControl.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.KyGuiControl.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.MatHangControl.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.FormMainMenu.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.FormThemKyGui.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.Login.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.Register.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM-Shoes.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM-Shoes.exe
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM-Shoes.pdb
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.ChildForm.GioHang.FormXacNhan.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.FormNapTienVDT.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.SanPhamDaMuaControl.resources
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\CTQM-Shoes\obj\Debug\CTQM_Shoes.FormDoiMaBaoMat.resources

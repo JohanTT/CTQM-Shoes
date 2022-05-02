@@ -1,0 +1,15 @@
+----------CTQM STORE BILL----------
+|Mã hoá đơn: HD3012003     Ngày thanh toán: 12/30/2021 10:29:44 AM
+|Tên khách hàng: Lê Anh Trí
+|Số điện thoại: 0982644024
+|Địa chỉ: 11 Cù Chính Lan
+|Mã khuyến mãi: KM30_0101
+-----------------------------------
+Số lượng 	 Tên giày 	 Đơn giá 	 Giảm giá 	 Tổng tiền 
+Sản phẩm 1: 
+Mã sản phẩm mua: HD3012003_AD_4DR_CW_N_5_43_2
+2	Adidas 4D Run 1.0 "Cloud White"	7500000		30	10500000
+-----------------------------------
+Tổng tiền giày: 15000000
+Tổng tiền khuyến mãi: 4500000
+Cần thanh toán: 10500000

@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 27" name="Shoes2">
+  <DataContextMoniker Name="/Shoes2DataContext" />
+  <nestedChildShapes>
+    <classShape Id="bbb1106b-4ca9-4e54-b65a-484ba20e6397" absoluteBounds="3.5, 11.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/Shoes2DataContext/CHI_TIET_HOA_DON" />
+      <nestedChildShapes>
+        <elementListCompartment Id="07111f4b-94a9-4b11-b8ff-5c9f2b5cea63" absoluteBounds="3.515, 11.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3fb7f795-174a-4778-a390-1d1a3f41d7f8" absoluteBounds="6.5, 17.5, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/Shoes2DataContext/CHI_TIET_MAT_HANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f2b93db0-24f9-4614-975c-79097fd15c84" absoluteBounds="6.515, 17.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="517fdf7d-345f-4a6e-9d9c-70dc849800a0" absoluteBounds="6.5, 13.75, 2, 2.9247054036458344">
+      <DataClassMoniker Name="/Shoes2DataContext/DANH_SACH_HOA_DON_CHO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c41106b6-1678-48fc-b900-ae6264b23fc6" absoluteBounds="6.515, 14.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8ab489aa-de53-4727-bad7-b0ed1036ac8b" absoluteBounds="3.5, 22.625, 2, 4.0785139973958309">
+      <DataClassMoniker Name="/Shoes2DataContext/DANH_SACH_KY_GUI_CHO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b60a61f4-a278-4370-8c12-8443b66b7019" absoluteBounds="3.515, 23.085, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3d63afcb-2a47-4c63-a1f2-efab489772ce" absoluteBounds="6.5, 10.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/Shoes2DataContext/GIO_HANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2a494f38-1ea1-40fd-a7cb-941237d8281a" absoluteBounds="6.515, 10.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f2a989a3-cfe3-42f3-a3b6-129c0fc05521" absoluteBounds="0.75, 14.125, 2, 2.1554996744791683">
+      <DataClassMoniker Name="/Shoes2DataContext/HOA_DON" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2d0b752b-9c6a-4595-90c3-fecd37ebd7de" absoluteBounds="0.765, 14.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ac6a7f62-873d-4735-a5b1-4d1af7052be6" absoluteBounds="0.75, 9.75, 2, 2.9247054036458344">
+      <DataClassMoniker Name="/Shoes2DataContext/KHACH_HANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="97a70abf-639f-4579-8325-bd73ec417156" absoluteBounds="0.765, 10.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d8b6c2a6-af4f-4cd8-a61c-c51011398197" absoluteBounds="6.5, 7.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/Shoes2DataContext/KY_GUI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ec41526e-ec66-480d-b275-039ad4a80bc1" absoluteBounds="6.515, 7.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="980b4c53-e833-4011-8ce2-db0e879da2d1" absoluteBounds="3.75, 14, 2, 2.9247054036458309">
+      <DataClassMoniker Name="/Shoes2DataContext/MAT_HANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="56eb2b13-ed40-4b92-8e0a-2a630aa2c32a" absoluteBounds="3.765, 14.46, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="070754ba-7c81-4292-9851-d37fcce0e452" absoluteBounds="3.75, 4.375, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/Shoes2DataContext/NHAN_VIEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e2fe1596-8bec-45e0-8acd-92e5c982f6b1" absoluteBounds="3.765, 4.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="66bfb7a4-71ba-4152-ae9c-2a58d9a0a7d6" absoluteBounds="3.5, 8, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/Shoes2DataContext/PAYPAL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ea3d5143-83d2-4c46-a16b-5d9a21649963" absoluteBounds="3.515, 8.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 14.1265374615385); (3.125 : 13.7515374615385); (3.125 : 12.2027498372396); (3.16666666666667 : 12.2027498372396 : JumpStart); (3.33333333333333 : 12.2027498372396 : JumpEnd); (3.5 : 12.2027498372396)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Shoes2DataContext/HOA_DON/HOA_DON_CHI_TIET_HOA_DON" />
+      <nodes>
+        <classShapeMoniker Id="f2a989a3-cfe3-42f3-a3b6-129c0fc05521" />
+        <classShapeMoniker Id="bbb1106b-4ca9-4e54-b65a-484ba20e6397" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 11.6013749186198); (3.16666666666667 : 11.6013749186198 : JumpStart); (3.33333333333333 : 11.6013749186198 : JumpEnd); (3.5 : 11.6013749186198)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Shoes2DataContext/KHACH_HANG/KHACH_HANG_CHI_TIET_HOA_DON" />
+      <nodes>
+        <classShapeMoniker Id="ac6a7f62-873d-4735-a5b1-4d1af7052be6" />
+        <classShapeMoniker Id="bbb1106b-4ca9-4e54-b65a-484ba20e6397" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.6444354593099); (3.25 : 10.6444354593099); (3.25 : 13.5); (5.57291666666667 : 13.5 : JumpStart); (5.77083583333333 : 13.5 : JumpEnd); (7.5 : 13.5); (7.5 : 13.75)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Shoes2DataContext/KHACH_HANG/KHACH_HANG_DANH_SACH_HOA_DON_CHO" />
+      <nodes>
+        <classShapeMoniker Id="ac6a7f62-873d-4735-a5b1-4d1af7052be6" />
+        <classShapeMoniker Id="517fdf7d-345f-4a6e-9d9c-70dc849800a0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 12.6131659421074); (3.06607443490112 : 12.9292403770085 : JumpStart); (3.18392556509888 : 13.0470915072063 : JumpEnd); (3.1875 : 13.0506659421074); (3.1875 : 24.6642569986979); (3.5 : 24.6642569986979)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Shoes2DataContext/KHACH_HANG/KHACH_HANG_DANH_SACH_KY_GUI_CHO" />
+      <nodes>
+        <classShapeMoniker Id="ac6a7f62-873d-4735-a5b1-4d1af7052be6" />
+        <classShapeMoniker Id="8ab489aa-de53-4727-bad7-b0ed1036ac8b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.3222177296549); (5.60416916666667 : 10.3222177296549 : JumpStart); (5.77083583333333 : 10.3222177296549 : JumpEnd); (6.04166666666667 : 10.3222177296549 : JumpStart); (6.20833333333333 : 10.3222177296549 : JumpEnd); (6.5 : 10.3222177296549)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Shoes2DataContext/KHACH_HANG/KHACH_HANG_GIO_HANG" />
+      <nodes>
+        <classShapeMoniker Id="ac6a7f62-873d-4735-a5b1-4d1af7052be6" />
+        <classShapeMoniker Id="3d63afcb-2a47-4c63-a1f2-efab489772ce" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 9.75); (1.75 : 7.53125); (6.04166666666667 : 7.53125 : JumpStart); (6.20833333333333 : 7.53125 : JumpEnd); (6.5 : 7.53125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Shoes2DataContext/KHACH_HANG/KHACH_HANG_KY_GUI" />
+      <nodes>
+        <classShapeMoniker Id="ac6a7f62-873d-4735-a5b1-4d1af7052be6" />
+        <classShapeMoniker Id="d8b6c2a6-af4f-4cd8-a61c-c51011398197" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.75 : 16.9247054036458); (4.75 : 18.4815991210938); (6.5 : 18.4815991210938)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Shoes2DataContext/MAT_HANG/MAT_HANG_CHI_TIET_MAT_HANG" />
+      <nodes>
+        <classShapeMoniker Id="980b4c53-e833-4011-8ce2-db0e879da2d1" />
+        <classShapeMoniker Id="3fb7f795-174a-4778-a390-1d1a3f41d7f8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 15.3373527018229); (6.5 : 15.3373527018229)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Shoes2DataContext/MAT_HANG/MAT_HANG_DANH_SACH_HOA_DON_CHO" />
+      <nodes>
+        <classShapeMoniker Id="980b4c53-e833-4011-8ce2-db0e879da2d1" />
+        <classShapeMoniker Id="517fdf7d-345f-4a6e-9d9c-70dc849800a0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.65625 : 14); (5.65625 : 10.7236113648275); (6.04166666666667 : 10.7236113648275 : JumpStart); (6.20833333333333 : 10.7236113648275 : JumpEnd); (6.5 : 10.7236113648275)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Shoes2DataContext/MAT_HANG/MAT_HANG_GIO_HANG" />
+      <nodes>
+        <classShapeMoniker Id="980b4c53-e833-4011-8ce2-db0e879da2d1" />
+        <classShapeMoniker Id="3d63afcb-2a47-4c63-a1f2-efab489772ce" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.75 : 15.2347710680088); (3.27083333333333 : 15.2347710680088 : JumpStart); (3.10416666666667 : 15.2347710680088 : JumpEnd); (2.75 : 15.2347710680088)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Shoes2DataContext/MAT_HANG/MAT_HANG_HOA_DON" />
+      <nodes>
+        <classShapeMoniker Id="980b4c53-e833-4011-8ce2-db0e879da2d1" />
+        <classShapeMoniker Id="f2a989a3-cfe3-42f3-a3b6-129c0fc05521" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.6875025 : 14); (5.6875025 : 7.7656275); (6.04166666666667 : 7.7656275 : JumpStart); (6.20833333333333 : 7.7656275 : JumpEnd); (6.5 : 7.7656275)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Shoes2DataContext/MAT_HANG/MAT_HANG_KY_GUI" />
+      <nodes>
+        <classShapeMoniker Id="980b4c53-e833-4011-8ce2-db0e879da2d1" />
+        <classShapeMoniker Id="d8b6c2a6-af4f-4cd8-a61c-c51011398197" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 6.3381982421875); (6.125 : 6.7131982421875); (6.125 : 11); (5.625 : 11); (5.5 : 11.125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/Shoes2DataContext/NHAN_VIEN/NHAN_VIEN_CHI_TIET_HOA_DON" />
+      <nodes>
+        <classShapeMoniker Id="070754ba-7c81-4292-9851-d37fcce0e452" />
+        <classShapeMoniker Id="bbb1106b-4ca9-4e54-b65a-484ba20e6397" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.62500125 : 6.3381982421875); (5.62500125 : 7.2968725); (6.04166666666667 : 7.2968725 : JumpStart); (6.20833333333333 : 7.2968725 : JumpEnd); (6.5 : 7.2968725)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Shoes2DataContext/NHAN_VIEN/NHAN_VIEN_KY_GUI" />
+      <nodes>
+        <classShapeMoniker Id="070754ba-7c81-4292-9851-d37fcce0e452" />
+        <classShapeMoniker Id="d8b6c2a6-af4f-4cd8-a61c-c51011398197" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.2812525 : 9.75); (2.2812525 : 8.78929768880208); (3.5 : 8.78929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Shoes2DataContext/KHACH_HANG/KHACH_HANG_PAYPAL" />
+      <nodes>
+        <classShapeMoniker Id="ac6a7f62-873d-4735-a5b1-4d1af7052be6" />
+        <classShapeMoniker Id="66bfb7a4-71ba-4152-ae9c-2a58d9a0a7d6" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

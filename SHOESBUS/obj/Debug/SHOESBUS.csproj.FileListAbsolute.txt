@@ -1,0 +1,95 @@
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESBUS\bin\Debug\SHOESBUS.dll.config
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESBUS\bin\Debug\SHOESBUS.dll
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESBUS\bin\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESBUS\bin\Debug\SHOESDAL.dll
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESBUS\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESBUS\bin\Debug\SHOESDAL.pdb
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESBUS\bin\Debug\SHOESDAL.dll.config
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESBUS\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESBUS\obj\Debug\SHOESBUS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESBUS\obj\Debug\SHOESBUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESBUS\obj\Debug\SHOESBUS.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESBUS\obj\Debug\SHOESBUS.dll
+C:\Users\ADMIN\source\repos\CTQM-Shoes\SHOESBUS\obj\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESBUS\bin\Debug\SHOESBUS.dll.config
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESBUS\bin\Debug\SHOESBUS.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESBUS\bin\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESBUS\bin\Debug\SHOESDAL.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESBUS\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESBUS\bin\Debug\SHOESDAL.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESBUS\bin\Debug\SHOESDAL.dll.config
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESBUS\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESBUS\obj\Debug\SHOESBUS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESBUS\obj\Debug\SHOESBUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESBUS\obj\Debug\SHOESBUS.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESBUS\obj\Debug\SHOESBUS.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.13\SHOESBUS\obj\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESBUS\obj\Debug\SHOESBUS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESBUS\obj\Debug\SHOESBUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESBUS\obj\Debug\SHOESBUS.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESBUS\obj\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESBUS\bin\Debug\SHOESBUS.dll.config
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESBUS\bin\Debug\SHOESBUS.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESBUS\bin\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESBUS\bin\Debug\SHOESDAL.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESBUS\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESBUS\bin\Debug\SHOESDAL.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESBUS\bin\Debug\SHOESDAL.dll.config
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESBUS\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.14\SHOESBUS\obj\Debug\SHOESBUS.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESBUS\bin\Debug\SHOESBUS.dll.config
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESBUS\bin\Debug\SHOESBUS.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESBUS\bin\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESBUS\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESBUS\bin\Debug\SHOESDAL.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESBUS\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESBUS\bin\Debug\SHOESDAL.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESBUS\bin\Debug\SHOESDAL.dll.config
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESBUS\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESBUS\obj\Debug\SHOESBUS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESBUS\obj\Debug\SHOESBUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESBUS\obj\Debug\SHOESBUS.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESBUS\obj\Debug\SHOESBUS.dll
+C:\Users\ADMIN\source\repos\Shoes.1.2.23\SHOESBUS\obj\Debug\SHOESBUS.pdb
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESBUS\bin\Debug\SHOESBUS.dll.config
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESBUS\bin\Debug\SHOESBUS.dll
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESBUS\bin\Debug\SHOESBUS.pdb
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESBUS\bin\Debug\Guna.UI2.dll
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESBUS\bin\Debug\SHOESDAL.dll
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESBUS\bin\Debug\SHOESDTO.dll
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESBUS\bin\Debug\SHOESDAL.pdb
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESBUS\bin\Debug\SHOESDAL.dll.config
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESBUS\bin\Debug\SHOESDTO.pdb
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESBUS\obj\Debug\SHOESBUS.csproj.AssemblyReference.cache
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESBUS\obj\Debug\SHOESBUS.csproj.CoreCompileInputs.cache
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESBUS\obj\Debug\SHOESBUS.csproj.CopyComplete
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESBUS\obj\Debug\SHOESBUS.dll
+D:\Study Material\HCMUE\WP\SHOES.1.2.26-main\SHOESBUS\obj\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\SHOESBUS\bin\Debug\SHOESBUS.dll.config
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\SHOESBUS\bin\Debug\SHOESBUS.dll
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\SHOESBUS\bin\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\SHOESBUS\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\SHOESBUS\bin\Debug\SHOESDAL.dll
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\SHOESBUS\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\SHOESBUS\bin\Debug\SHOESDAL.pdb
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\SHOESBUS\bin\Debug\SHOESDAL.dll.config
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\SHOESBUS\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\SHOESBUS\obj\Debug\SHOESBUS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\SHOESBUS\obj\Debug\SHOESBUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\SHOESBUS\obj\Debug\SHOESBUS.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\SHOESBUS\obj\Debug\SHOESBUS.dll
+C:\Users\ADMIN\source\repos\SHOES.1.2.28\SHOESBUS\obj\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESBUS\bin\Debug\SHOESBUS.dll.config
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESBUS\bin\Debug\SHOESBUS.dll
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESBUS\bin\Debug\SHOESBUS.pdb
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESBUS\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESBUS\bin\Debug\SHOESDAL.dll
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESBUS\bin\Debug\SHOESDTO.dll
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESBUS\bin\Debug\SHOESDAL.pdb
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESBUS\bin\Debug\SHOESDAL.dll.config
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESBUS\bin\Debug\SHOESDTO.pdb
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESBUS\obj\Debug\SHOESBUS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESBUS\obj\Debug\SHOESBUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESBUS\obj\Debug\SHOESBUS.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESBUS\obj\Debug\SHOESBUS.dll
+C:\Users\ADMIN\Desktop\Shoes.1.2.28\SHOESBUS\obj\Debug\SHOESBUS.pdb

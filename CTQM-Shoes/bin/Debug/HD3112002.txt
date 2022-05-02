@@ -1,0 +1,16 @@
+----------CTQM STORE BILL----------
+|Mã hoá đơn: HD3112002     Ngày thanh toán: 12/31/2021 4:21:11 PM
+|Tên khách hàng: Cao Việt Thắng
+|Số điện thoại: 0909161872
+|Địa chỉ: 64 Tân Hiệp
+|Mã khuyến mãi: 
+-----------------------------------
+Số lượng 	 Tên giày 	 Đơn giá 	 Giảm giá 	 Tổng tiền 
+Sản phẩm 1: 
+Mã sản phẩm mua: HD3112002_JD_1MSE_W/LSG/PG_N_3_42_1
+1	Air Jordan 1 Mid SE	4000000		30	2800000
+-----------------------------------
+Tổng tiền giày: 4000000
+Tổng tiền khuyến mãi: 1200000
+Cần thanh toán: 2800000
+Phương thức thanh toán: Paypal

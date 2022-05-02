@@ -1,0 +1,18 @@
+----------CTQM STORE BILL----------
+|Mã hoá đơn: HD2912011     Ngày thanh toán: 12/29/2021 7:51:22 PM
+|Tên khách hàng: Thắng Việt Cao
+|Số điện thoại: 0909161871
+|Địa chỉ: asdfasdf
+|Mã khuyến mãi: 
+-----------------------------------
+Số lượng 	 Tên giày 	 Đơn giá 	 Giảm giá 	 Tổng tiền 
+Sản phẩm 1: 
+Mã sản phẩm mua: HD2912011_JD_4R_CG/W_N_4_43_1
+1	KAWS X AIR JORDAN 4 RETRO COOL GREY	67912355		0	67912355
+Sản phẩm 1: 
+Mã sản phẩm mua: HD2912011_JD_RHOHR_G/W_O_1_41_1
+1	AIR JORDAN 1 RETRO HIGH OG HYPER ROYAL	7000000		0	7000000
+-----------------------------------
+Tổng tiền giày: 74912355
+Tổng tiền khuyến mãi: 0
+Cần thanh toán: 74912355
