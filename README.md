@@ -1,5 +1,6 @@
 # CTQM-Shoes
 Ứng dụng quản lý shop bán giày.
+
 Bước 1: Copy file "anh" đưa vào ổ "D:\" để khi chạy file sql thì nhập hình ảnh không bị rối
 Bước 2: Mở file sql "Shoes9.0.sql" lên và chạy code.
 Bước 3: Mở file "CTQM-Shoes.sln".
